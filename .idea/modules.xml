@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RPI_Kafka.iml" filepath="$PROJECT_DIR$/.idea/RPI_Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-command-service/product-command-service.iml" filepath="$PROJECT_DIR$/product-command-service/product-command-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-query-service/product-query-service.iml" filepath="$PROJECT_DIR$/product-query-service/product-query-service.iml" />
+    </modules>
+  </component>
+</project>
